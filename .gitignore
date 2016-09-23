@@ -1,0 +1,16 @@
+*~
+#*#
+*.swap
+.DS_Store
+*.swp
+.*
+!.git*
+vendor/
+node_modules/
+public/js/bundle.js
+public/js/bundle.js.map
+*.db
+Godeps/_workspace
+!.eslintrc.js
+!.editorconfig
+
